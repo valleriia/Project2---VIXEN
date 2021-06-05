@@ -2,15 +2,24 @@
 [![Solidity Forum](https://img.shields.io/badge/Solidity_Forum%20-discuss-brightgreen?style=plastic&logo=discourse)](https://forum.soliditylang.org/)
 
 
-## Documentation
+## solidity
+* Official Solidity docs: http://solidity.readthedocs.io/en/develop/index.html
+* Solidity Features: https://github.com/ethereum/wiki/wiki/Solidity-Features
+* About Solidity: https://en.wikipedia.org/wiki/Solidity
+* EthDocs on Contracts: http://www.ethdocs.org/en/latest/contracts-and-transactions/contracts.html
+* ConsenSys smart contracts best practices: https://github.com/ConsenSys/smart-contract-best-practices
+* Solidity Examples: http://solidity.readthedocs.io/en/develop/solidity-by-example.html
+* Solidity Tutorials: https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html
+* Advanced Solidity Tutorials by Monax.io: https://monax.io/docs/tutorials/solidity/solidity_1_the_five_types_model/
+* OpenZeppelin Smart Contracts: https://github.com/OpenZeppelin/zeppelin-solidity
+* https://github.com/axic/density
+* http://solidity.readthedocs.io/en/develop/common-patterns.html
 
-The Solidity documentation is hosted at [Read the docs](https://docs.soliditylang.org).
 
-## License
-Solidity is licensed under [GNU General Public License v3.0](LICENSE.txt).
+## faucet
+* http://faucet.ropsten.be:3001/
 
-Some third-party code has its [own licensing terms](cmake/templates/license.h.in).
 
-## Security
 
-The security policy may be [found here](SECURITY.md).
+
+
