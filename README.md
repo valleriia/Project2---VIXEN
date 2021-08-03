@@ -64,7 +64,7 @@ contract VXNtoken is ERC20, ERC20Detailed, ERC20Mintable {
 
 
 ## Faucet
-* http://faucet.ropsten.be:3001/
+* https://faucet.ropsten.be
 
 
 
